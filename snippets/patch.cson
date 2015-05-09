@@ -1,0 +1,8 @@
+".source.ruby":
+  "Sinatra PATCH":
+    "prefix": "patch"
+    "body": """
+    patch ${1:'/'} do
+    \t$2
+    end
+    """

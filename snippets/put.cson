@@ -1,0 +1,8 @@
+".source.ruby":
+  "Sinatra PUT":
+    "prefix": "put"
+    "body": """
+    put ${1:'/'} do
+    \t$2
+    end
+    """

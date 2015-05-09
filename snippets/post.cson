@@ -1,0 +1,8 @@
+".source.ruby":
+  "Sinatra POST":
+    "prefix": "post"
+    "body": """
+    post ${1:'/'} do
+    \t$2
+    end
+    """

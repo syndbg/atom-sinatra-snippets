@@ -1,0 +1,8 @@
+".source.ruby":
+  "Sinatra UNLINK":
+    "prefix": "unlink"
+    "body": """
+    unlink ${1:'/'} do
+    \t$2
+    end
+    """
