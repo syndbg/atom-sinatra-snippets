@@ -2,7 +2,7 @@
   "Sinatra GET":
     "prefix": "get"
     "body": """
-    get ${1:'/'} do
+    get '/$1' do
     \t$2
     end
     """

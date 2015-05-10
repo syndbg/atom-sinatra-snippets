@@ -2,7 +2,7 @@
   "Sinatra DELETE":
     "prefix": "delete"
     "body": """
-    delete ${1:'/'} do
+    delete '/$1' do
     \t$2
     end
     """

@@ -2,7 +2,7 @@
   "Sinatra OPTIONS":
     "prefix": "options"
     "body": """
-    options ${1:'/'} do
+    options '/$1' do
     \t$2
     end
     """
