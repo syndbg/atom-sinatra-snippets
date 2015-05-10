@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra UNLINK":
+  "route UNLINK":
     "prefix": "unlink"
     "body": """
     unlink '/$1' do

@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra GET":
+  "route GET":
     "prefix": "get"
     "body": """
     get '/$1' do

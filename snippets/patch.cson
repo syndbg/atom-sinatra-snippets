@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra PATCH":
+  "route PATCH":
     "prefix": "patch"
     "body": """
     patch '/$1' do

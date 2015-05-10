@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra OPTIONS":
+  "route OPTIONS":
     "prefix": "options"
     "body": """
     options '/$1' do

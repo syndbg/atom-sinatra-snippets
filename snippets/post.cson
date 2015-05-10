@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra POST":
+  "route POST":
     "prefix": "post"
     "body": """
     post '/$1' do

@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra LINK":
+  "route LINK":
     "prefix": "link"
     "body": """
     link '/$1' do

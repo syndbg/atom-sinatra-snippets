@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra DELETE":
+  "route DELETE":
     "prefix": "delete"
     "body": """
     delete '/$1' do

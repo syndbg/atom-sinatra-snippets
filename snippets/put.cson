@@ -1,5 +1,5 @@
 ".source.ruby":
-  "Sinatra PUT":
+  "route PUT":
     "prefix": "put"
     "body": """
     put '/$1' do
