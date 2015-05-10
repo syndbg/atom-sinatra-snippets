@@ -24,9 +24,10 @@ apm install sinatra-snippets
 * delete
 * link
 * unlink
+* not_found
 
+**Helpers: ?%** - http://www.sinatrarb.com/intro.html#Helpers
 
-**Helpers: 0%** - http://www.sinatrarb.com/intro.html#Helpers
-
+* redirect (redir)
 * ~~top-level~~
 * ~~modular~~

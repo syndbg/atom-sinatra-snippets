@@ -1,0 +1,4 @@
+".source.ruby":
+  "Sinatra redirect":
+    "prefix": "redir"
+    "body": "redirect to('/$1')"
