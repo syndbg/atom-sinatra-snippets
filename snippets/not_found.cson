@@ -1,0 +1,8 @@
+".source.ruby":
+  "route not_found":
+    "prefix": "notfound"
+    "body": """
+    not_found '/$1' do
+    \t$2
+    end
+    """
