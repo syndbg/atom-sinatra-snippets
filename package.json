@@ -1,7 +1,7 @@
 {
   "name": "sinatra-snippets",
   "main": "./lib/sinatra-snippets",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Ruby Sinatra snippets for Atom",
   "repository": "https://github.com/syndbg/atom-sinatra-snippets",
   "license": "MIT",
