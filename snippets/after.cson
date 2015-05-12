@@ -1,0 +1,8 @@
+".source.ruby":
+  "filter after":
+    "prefix": "aft"
+    "body": """
+    after do
+    \t$1
+    end
+    """

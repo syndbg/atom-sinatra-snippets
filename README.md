@@ -28,7 +28,13 @@ apm install sinatra-snippets
 
 **Helpers: ?%** - http://www.sinatrarb.com/intro.html#Helpers
 
-* configure (config)
 * redirect (redir)
 * top-level (help)
 * ~~modular~~
+
+
+**Filters: 100%** - http://www.sinatrarb.com/intro.html#Filters
+
+* configure (conf)
+* before (bef)
+* after (aft)

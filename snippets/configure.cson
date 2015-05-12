@@ -1,6 +1,6 @@
 ".source.ruby":
   "filter configure":
-    "prefix": "config"
+    "prefix": "conf"
     "body": """
     configure ${1::development} do
     \t$2
